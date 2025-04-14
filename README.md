@@ -107,7 +107,14 @@ User verification confirms that account setup, licensing, and access permissions
 1. Open an incognito/private browser window  
 2. Navigate to https://portal.office.com  
 3. Sign in using the new account: `jane.doe@yourdomain.com`  
+
+![image](https://github.com/user-attachments/assets/f2a13f58-eebe-4f07-bfec-aa9f79297144)
+
 4. Enter the temporary password and create a new password when prompted  
+
+![image](https://github.com/user-attachments/assets/e38303ff-f041-4ee4-92d2-e8f126dc8b0f)
+![image](https://github.com/user-attachments/assets/49677c6a-18ee-439a-b747-32c990a541ee)
+
 5. Complete multi-factor authentication (if enabled)  
 6. Verify access to licensed services (Outlook, Teams, OneDrive)
 
