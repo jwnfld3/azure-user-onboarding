@@ -79,9 +79,23 @@ Groups in Microsoft Entra ID allow administrators to manage permissions and acce
 3. Select an existing group or click **+ New group** to create one  
    - Example: `All Employees`, `HR Department`  
 4. Open the group and go to **Members**  
+
+![image](https://github.com/user-attachments/assets/f3efaf59-1c43-4c81-804e-b72a0ab8f535)
+![image](https://github.com/user-attachments/assets/a186515b-49b6-4a57-a66e-440f97e78844)
+
+
 5. Click **+ Add members**  
+
+![image](https://github.com/user-attachments/assets/1430d695-357a-4571-a7ea-7572acce7b1a)
+
 6. Search for and select `Jane Doe`  
-7. Click **Select** and then **Add**
+
+![image](https://github.com/user-attachments/assets/d79aca1c-f483-47dd-aa13-1753cb13f9c2)
+
+8. Click **Select**
+
+![image](https://github.com/user-attachments/assets/bcbd8060-83f4-42a4-9b25-b1f6e48fdc5d)
+![image](https://github.com/user-attachments/assets/4bcbae01-c5b9-4ef3-bfb3-30bbaa0f99d5)
 
 ---
 
