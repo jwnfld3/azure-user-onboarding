@@ -63,6 +63,9 @@ A Microsoft 365 license provides access to cloud productivity tools such as Outl
 5. Assign a Microsoft 365 license (e.g., Microsoft 365 Business Premium)  
 6. Click **Save changes**
 
+![image](https://github.com/user-attachments/assets/21973c10-51be-4e3f-8245-991aa8c42bc5)
+![image](https://github.com/user-attachments/assets/e78f7f16-9075-41f8-a1f7-985bdf5ae4bb)
+
 ---
 
 ### Step 3: Add the User to Microsoft 365 and Security Groups
