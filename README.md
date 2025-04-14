@@ -114,6 +114,7 @@ User verification confirms that account setup, licensing, and access permissions
 
 ![image](https://github.com/user-attachments/assets/e38303ff-f041-4ee4-92d2-e8f126dc8b0f)
 ![image](https://github.com/user-attachments/assets/49677c6a-18ee-439a-b747-32c990a541ee)
+![image](https://github.com/user-attachments/assets/59637690-b551-4d6e-93d5-3a410dda5439)
 
 5. Verify access to licensed services (Outlook, Teams, OneDrive)  
 
