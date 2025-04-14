@@ -116,10 +116,13 @@ User verification confirms that account setup, licensing, and access permissions
 ![image](https://github.com/user-attachments/assets/49677c6a-18ee-439a-b747-32c990a541ee)
 ![image](https://github.com/user-attachments/assets/59637690-b551-4d6e-93d5-3a410dda5439)
 
-5. Verify access to licensed services (Outlook, Teams, OneDrive)  
+5. Verify access to licensed services (Outlook, OneDrive)  
 
 ![image](https://github.com/user-attachments/assets/9c5880fb-f544-437d-ab4d-216db58c6fb6)
 ![image](https://github.com/user-attachments/assets/60e3aa49-833a-45e5-94f5-977ce05238ad)
+
+
+![image](https://github.com/user-attachments/assets/3ae92437-22f0-410d-890b-353814d29bc2)
 
 ---
 
