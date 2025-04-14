@@ -65,6 +65,7 @@ A Microsoft 365 license provides access to cloud productivity tools such as Outl
 
 ![image](https://github.com/user-attachments/assets/21973c10-51be-4e3f-8245-991aa8c42bc5)
 ![image](https://github.com/user-attachments/assets/e78f7f16-9075-41f8-a1f7-985bdf5ae4bb)
+![image](https://github.com/user-attachments/assets/a8987258-8f53-4a16-8aa7-c39f2b9bb381)
 
 ---
 
